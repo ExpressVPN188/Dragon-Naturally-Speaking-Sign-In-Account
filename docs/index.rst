@@ -8,8 +8,8 @@
 Easily learn how to access your Dragon Naturally Speaking sign in account, troubleshoot login issues, and manage your speech software settings.
 
 
-.. image:: login.jpg
-   :alt: My Project Logo
+.. image:: sign-in.jpg
+   :alt: Dragon Naturally Speaking Sign In Account
    :width: 400px
    :align: center
    :target: https://aclogportal.com/dragon-naturally
