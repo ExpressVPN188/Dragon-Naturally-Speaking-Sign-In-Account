@@ -1,4 +1,7 @@
- How Do I Sign In to My Dragon Naturally Speaking Account?
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://dragonnaturallyspeakingaccount.com">
+How Do I Sign In to My Dragon Naturally Speaking Account?
 ============================================
 
 .. toctree::
